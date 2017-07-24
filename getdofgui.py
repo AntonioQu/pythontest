@@ -57,7 +57,7 @@ if __name__ == '__main__':
     root = Tk()
     root.title("Get DOF")
     w = 300 # width for the Tk root
-    h = 300 # height for the Tk root
+    h = 100 # height for the Tk root
 
     # get screen width and height
     ws = root.winfo_screenwidth() # width of the screen
